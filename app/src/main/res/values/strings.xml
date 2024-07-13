@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ComposeCard</string>
+    <string name="title">Introducing the Ultimate Android Smart Card</string>
+    <string name="description">Introducing our innovative Android card, the ultimate smart solution designed to seamlessly integrate into your digital lifestyle. This sleek and compact card offers an array of features that enhance security, convenience, and connectivity. With its built-in NFC technology, you can effortlessly make secure transactions, access smart locks, and exchange information with a simple tap. The card is equipped with advanced encryption to protect your personal data, ensuring peace of mind in an increasingly digital world.</string>
 </resources>
